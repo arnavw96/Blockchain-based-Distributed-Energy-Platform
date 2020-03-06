@@ -59,7 +59,7 @@ Follow these steps to setup and run this developer journey. The steps are descri
 
 Clone the `Bijli code` locally. In a terminal, run:
 
-`git clone https://github.com/slayerjain/bijli`
+`git clone https://github.com/arnavw96/Blockchain-based-Distributed-Energy-Platform`
 
 ## 2. Setup Fabric
 
